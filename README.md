@@ -1,4 +1,5 @@
-# Security Vulnerability Audit (Cursor Agent Skill)
+# Security Vulnerability Audit 
+**Author - Venkat Movva**
 
 An Agent Skill that runs structured application security reviews against the **OWASP Top 10:2025** checklist. The agent maps findings to severity levels, ties each issue to code locations, and writes a dated audit report you can share with your team.
 
@@ -140,7 +141,7 @@ Issues and pull requests are welcome. When adding detection guidance, prefer con
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) if present, or add a `LICENSE` file before publishing.
+MIT License — see [LICENSE](LICENSE)
 
 ## Acknowledgments
 
