@@ -1,7 +1,7 @@
 # Security Vulnerability Audit 
 **Author - Venkat Movva**
 
-An Agent Skill that runs structured application security reviews against the **OWASP Top 10:2025** checklist. The agent maps findings to severity levels, ties each issue to code locations, and writes a dated audit report you can share with your team.
+An Agent Skill that checks for security and vulnerability issues in the code for any application by checking against the **OWASP Top 10 : 2025** checklist. The agent maps findings to severity levels, ties each issue to code locations, and writes a dated audit report you can share with your team.
 
 ## Features
 
